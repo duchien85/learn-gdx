@@ -18,7 +18,7 @@
 		<link>
 			<name>assets</name>
 			<type>2</type>
-			<location>${WORKSPACE_LOC}/GdxAndroidLauncher/assets</location>
+			<locationURI>WORKSPACE_LOC/GdxAndroidLauncher/assets</locationURI>
 		</link>
 	</linkedResources>
 </projectDescription>
